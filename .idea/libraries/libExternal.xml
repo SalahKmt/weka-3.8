@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="libExternal">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/packages/internal/RPlugin/libExternal/xmlpull-1.1.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/packages/internal/RPlugin/libExternal/javagd-0.6.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/packages/internal/RPlugin/libExternal/jna-4.5.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/packages/internal/RPlugin/libExternal/xpp3_min-1.1.4c.jar!/" />
+      <root url="jar://$PROJECT_DIR$/packages/internal/RPlugin/libExternal/xstream-1.4.10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/packages/internal/RPlugin/libExternal/JRI.jar!/" />
+      <root url="jar://$PROJECT_DIR$/packages/internal/RPlugin/libExternal/REngine.jar!/" />
+      <root url="jar://$PROJECT_DIR$/packages/internal/RPlugin/libExternal/kxml2-min-2.3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/packages/internal/RPlugin/libExternal/JRIEngine.jar!/" />
+      <root url="jar://$PROJECT_DIR$/packages/internal/RPlugin/libExternal/jna-platform-4.5.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

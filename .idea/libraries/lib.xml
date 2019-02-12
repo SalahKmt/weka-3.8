@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/packages/internal/netlibNativeWindows/lib/netlib-native_system-win-i686-1.1-natives.jar!/" />
+      <root url="jar://$PROJECT_DIR$/packages/internal/netlibNativeWindows/lib/netlib-native_ref-win-i686-1.1-natives.jar!/" />
+      <root url="jar://$PROJECT_DIR$/packages/internal/netlibNativeWindows/lib/native_system-java-1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/packages/internal/netlibNativeWindows/lib/native_ref-java-1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/packages/internal/netlibNativeWindows/lib/netlib-native_ref-win-x86_64-1.1-natives.jar!/" />
+      <root url="jar://$PROJECT_DIR$/packages/internal/netlibNativeWindows/lib/netlib-native_system-win-x86_64-1.1-natives.jar!/" />
+      <root url="jar://$PROJECT_DIR$/packages/internal/netlibNativeWindows/lib/jniloader-1.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

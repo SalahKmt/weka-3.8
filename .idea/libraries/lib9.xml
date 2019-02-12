@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="lib9">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/packages/internal/netlibNativeOSX/lib/native_system-java-1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/packages/internal/netlibNativeOSX/lib/netlib-native_ref-osx-x86_64-1.1-natives.jar!/" />
+      <root url="jar://$PROJECT_DIR$/packages/internal/netlibNativeOSX/lib/jniloader-1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/packages/internal/netlibNativeOSX/lib/netlib-native_system-osx-x86_64-1.1-natives.jar!/" />
+      <root url="jar://$PROJECT_DIR$/packages/internal/netlibNativeOSX/lib/native_ref-java-1.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,31 @@
+<component name="libraryTable">
+  <library name="lib10">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/packages/external/kfGroovy/lib/groovy-groovysh-2.5.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/packages/external/kfGroovy/lib/groovy-all-2.4.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/packages/external/kfGroovy/lib/groovy-testng-2.5.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/packages/external/kfGroovy/lib/groovy-swing-2.5.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/packages/external/kfGroovy/lib/groovy-cli-picocli-2.5.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/packages/external/kfGroovy/lib/groovy-json-2.5.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/packages/external/kfGroovy/lib/groovy-2.5.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/packages/external/kfGroovy/lib/groovy-cli-commons-2.5.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/packages/external/kfGroovy/lib/groovy-docgenerator-2.5.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/packages/external/kfGroovy/lib/groovy-test-junit5-2.5.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/packages/external/kfGroovy/lib/groovy-sql-2.5.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/packages/external/kfGroovy/lib/groovy-datetime-2.5.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/packages/external/kfGroovy/lib/groovy-test-2.5.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/packages/external/kfGroovy/lib/groovy-templates-2.5.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/packages/external/kfGroovy/lib/groovy-jsr223-2.5.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/packages/external/kfGroovy/lib/groovy-jmx-2.5.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/packages/external/kfGroovy/lib/groovy-nio-2.5.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/packages/external/kfGroovy/lib/groovy-groovydoc-2.5.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/packages/external/kfGroovy/lib/groovy-ant-2.5.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/packages/external/kfGroovy/lib/groovy-macro-2.5.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/packages/external/kfGroovy/lib/groovy-console-2.5.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/packages/external/kfGroovy/lib/groovy-xml-2.5.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/packages/external/kfGroovy/lib/groovy-servlet-2.5.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

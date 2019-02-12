@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="lib7">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/weka/lib/arpack_combined.jar!/" />
+      <root url="jar://$PROJECT_DIR$/weka/lib/bounce.jar!/" />
+      <root url="jar://$PROJECT_DIR$/weka/lib/commons-compress-1.18.jar!/" />
+      <root url="jar://$PROJECT_DIR$/weka/lib/mtj.jar!/" />
+      <root url="jar://$PROJECT_DIR$/weka/lib/JFlex.jar!/" />
+      <root url="jar://$PROJECT_DIR$/weka/lib/java-cup.jar!/" />
+      <root url="jar://$PROJECT_DIR$/weka/lib/core.jar!/" />
+      <root url="jar://$PROJECT_DIR$/weka/lib/junit.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

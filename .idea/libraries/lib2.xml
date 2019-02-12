@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="lib2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/packages/internal/netlibNativeLinux/lib/netlib-native_ref-linux-x86_64-1.1-natives.jar!/" />
+      <root url="jar://$PROJECT_DIR$/packages/internal/netlibNativeLinux/lib/native_ref-java-1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/packages/internal/netlibNativeLinux/lib/netlib-native_system-linux-i686-1.1-natives.jar!/" />
+      <root url="jar://$PROJECT_DIR$/packages/internal/netlibNativeLinux/lib/netlib-native_ref-linux-i686-1.1-natives.jar!/" />
+      <root url="jar://$PROJECT_DIR$/packages/internal/netlibNativeLinux/lib/native_system-java-1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/packages/internal/netlibNativeLinux/lib/jniloader-1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/packages/internal/netlibNativeLinux/lib/netlib-native_ref-linux-armhf-1.1-natives.jar!/" />
+      <root url="jar://$PROJECT_DIR$/packages/internal/netlibNativeLinux/lib/netlib-native_system-linux-x86_64-1.1-natives.jar!/" />
+      <root url="jar://$PROJECT_DIR$/packages/internal/netlibNativeLinux/lib/netlib-native_system-linux-armhf-1.1-natives.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

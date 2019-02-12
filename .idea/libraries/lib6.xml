@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="lib6">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/tools/tests/lib/mail-1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/tools/tests/lib/snowball.jar!/" />
+      <root url="jar://$PROJECT_DIR$/tools/tests/lib/activation-1.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/tools/tests/lib/libsvm_282.jar!/" />
+      <root url="jar://$PROJECT_DIR$/tools/tests/lib/junit-3.8.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

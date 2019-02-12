@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="tigerjython2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/packages/external/tigerjython/lib/tigerjython2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

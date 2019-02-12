@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jOpenDocument">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/packages/internal/WekaODF/lib/jOpenDocument.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

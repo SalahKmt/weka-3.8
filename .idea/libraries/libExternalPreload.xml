@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="libExternalPreload">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/packages/internal/RPlugin/libExternalPreload/REngine.zip!/" />
+      <root url="jar://$PROJECT_DIR$/packages/internal/RPlugin/libExternalPreload/rJavaClassLoader.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

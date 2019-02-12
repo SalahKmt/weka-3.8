@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="lib3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/packages/internal/WekaExcel/lib/geronimo-stax-api_1.0_spec-1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/packages/internal/WekaExcel/lib/poi-ooxml-3.8-20120326.jar!/" />
+      <root url="jar://$PROJECT_DIR$/packages/internal/WekaExcel/lib/dom4j-1.6.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/packages/internal/WekaExcel/lib/poi-3.8-20120326.jar!/" />
+      <root url="jar://$PROJECT_DIR$/packages/internal/WekaExcel/lib/xmlbeans-2.3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/packages/internal/WekaExcel/lib/poi-ooxml-schemas-3.8-20120326.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

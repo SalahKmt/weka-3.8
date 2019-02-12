@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="lib4">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/packages/external/scatterPlot3D/lib/jogamp-fat.jar!/" />
+      <root url="jar://$PROJECT_DIR$/packages/external/scatterPlot3D/lib/vecmath.jar!/" />
+      <root url="jar://$PROJECT_DIR$/packages/external/scatterPlot3D/lib/j3dutils.jar!/" />
+      <root url="jar://$PROJECT_DIR$/packages/external/scatterPlot3D/lib/j3dcore.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

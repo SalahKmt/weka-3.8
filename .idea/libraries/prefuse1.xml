@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="prefuse1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/packages/external/prefuseTree/lib/prefuse.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
