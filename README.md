@@ -1,4 +1,4 @@
-https://travis-ci.org/SalahKmt/weka-3.8.svg?branch=master
+[![Build Status](https://travis-ci.org/SalahKmt/weka-3.8.svg?branch=master)](https://travis-ci.org/SalahKmt/weka-3.8)
 
 # WEKA (stable version)
 
