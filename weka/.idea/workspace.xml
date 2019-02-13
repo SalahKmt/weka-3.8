@@ -2,7 +2,231 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="abe8f4b3-8a81-4c46-90ea-a24dd453b466" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/testcases/weka/AllTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/testcases/weka/AllTests.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/testcases/weka/classifiers/evaluation/EvaluationTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/testcases/weka/classifiers/evaluation/EvaluationTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/testcases/weka/classifiers/functions/supportVector/AbstractKernelTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/testcases/weka/classifiers/functions/supportVector/AbstractKernelTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/testcases/weka/core/OptionHandlersTest$OptionHandlerTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/testcases/weka/core/OptionHandlersTest$OptionHandlerTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.associations.AprioriTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.associations.AprioriTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.associations.FPGrowthTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.associations.FPGrowthTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.associations.FilteredAssociatorTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.associations.FilteredAssociatorTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.attributeSelection.BestFirstTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.attributeSelection.BestFirstTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.attributeSelection.CfsSubsetEvalTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.attributeSelection.CfsSubsetEvalTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.attributeSelection.CorrelationAttributeEvalTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.attributeSelection.CorrelationAttributeEvalTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.attributeSelection.GainRatioAttributeEvalTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.attributeSelection.GainRatioAttributeEvalTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.attributeSelection.GreedyStepwiseTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.attributeSelection.GreedyStepwiseTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.attributeSelection.InfoGainAttributeEvalTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.attributeSelection.InfoGainAttributeEvalTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.attributeSelection.OneRAttributeEvalTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.attributeSelection.OneRAttributeEvalTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.attributeSelection.PrincipalComponentsTest-output.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.attributeSelection.PrincipalComponentsTest-output.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.attributeSelection.PrincipalComponentsTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.attributeSelection.PrincipalComponentsTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.attributeSelection.RankerTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.attributeSelection.RankerTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.attributeSelection.ReliefFAttributeEvalTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.attributeSelection.ReliefFAttributeEvalTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.attributeSelection.SymmetricalUncertAttributeEvalTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.attributeSelection.SymmetricalUncertAttributeEvalTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.attributeSelection.WrapperSubsetEvalTest-output.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.attributeSelection.WrapperSubsetEvalTest-output.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.attributeSelection.WrapperSubsetEvalTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.attributeSelection.WrapperSubsetEvalTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.classifiers.CostMatrixTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.classifiers.CostMatrixTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.classifiers.bayes.BayesNetTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.classifiers.bayes.BayesNetTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.classifiers.bayes.NaiveBayesMultinomialTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.classifiers.bayes.NaiveBayesMultinomialTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.classifiers.bayes.NaiveBayesMultinomialTextTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.classifiers.bayes.NaiveBayesMultinomialTextTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.classifiers.bayes.NaiveBayesMultinomialUpdateableTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.classifiers.bayes.NaiveBayesMultinomialUpdateableTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.classifiers.bayes.NaiveBayesTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.classifiers.bayes.NaiveBayesTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.classifiers.bayes.NaiveBayesUpdateableTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.classifiers.bayes.NaiveBayesUpdateableTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.classifiers.evaluation.EvaluationTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.classifiers.evaluation.EvaluationTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.classifiers.functions.GaussianProcessesTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.classifiers.functions.GaussianProcessesTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.classifiers.functions.LinearRegressionTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.classifiers.functions.LinearRegressionTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.classifiers.functions.LogisticTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.classifiers.functions.LogisticTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.classifiers.functions.MultilayerPerceptronTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.classifiers.functions.MultilayerPerceptronTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.classifiers.functions.SGDTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.classifiers.functions.SGDTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.classifiers.functions.SGDTextTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.classifiers.functions.SGDTextTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.classifiers.functions.SMOTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.classifiers.functions.SMOTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.classifiers.functions.SMOregTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.classifiers.functions.SMOregTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.classifiers.functions.SimpleLinearRegressionTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.classifiers.functions.SimpleLinearRegressionTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.classifiers.functions.SimpleLogisticTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.classifiers.functions.SimpleLogisticTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.classifiers.functions.VotedPerceptronTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.classifiers.functions.VotedPerceptronTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.classifiers.functions.supportVector.NormalizedPolyKernelTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.classifiers.functions.supportVector.NormalizedPolyKernelTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.classifiers.functions.supportVector.PolyKernelTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.classifiers.functions.supportVector.PolyKernelTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.classifiers.functions.supportVector.PrecomputedKernelMatrixKernelTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.classifiers.functions.supportVector.PrecomputedKernelMatrixKernelTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.classifiers.functions.supportVector.PukTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.classifiers.functions.supportVector.PukTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.classifiers.functions.supportVector.RBFKernelTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.classifiers.functions.supportVector.RBFKernelTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.classifiers.functions.supportVector.StringKernelTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.classifiers.functions.supportVector.StringKernelTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.classifiers.lazy.IBkTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.classifiers.lazy.IBkTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.classifiers.lazy.KStarTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.classifiers.lazy.KStarTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.classifiers.lazy.LWLTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.classifiers.lazy.LWLTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.classifiers.meta.AdaBoostM1Test.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.classifiers.meta.AdaBoostM1Test.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.classifiers.meta.AdditiveRegressionTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.classifiers.meta.AdditiveRegressionTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.classifiers.meta.AttributeSelectedClassifierTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.classifiers.meta.AttributeSelectedClassifierTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.classifiers.meta.BaggingTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.classifiers.meta.BaggingTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.classifiers.meta.CVParameterSelectionTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.classifiers.meta.CVParameterSelectionTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.classifiers.meta.ClassificationViaRegressionTest-output.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.classifiers.meta.ClassificationViaRegressionTest-output.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.classifiers.meta.ClassificationViaRegressionTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.classifiers.meta.ClassificationViaRegressionTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.classifiers.meta.CostSensitiveClassifierTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.classifiers.meta.CostSensitiveClassifierTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.classifiers.meta.FilteredClassifierTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.classifiers.meta.FilteredClassifierTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.classifiers.meta.IterativeClassifierOptimizerTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.classifiers.meta.IterativeClassifierOptimizerTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.classifiers.meta.LogitBoostTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.classifiers.meta.LogitBoostTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.classifiers.meta.MultiClassClassifierTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.classifiers.meta.MultiClassClassifierTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.classifiers.meta.MultiClassClassifierUpdateableTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.classifiers.meta.MultiClassClassifierUpdateableTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.classifiers.meta.MultiSchemeTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.classifiers.meta.MultiSchemeTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.classifiers.meta.RandomCommitteeTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.classifiers.meta.RandomCommitteeTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.classifiers.meta.RandomSubSpaceTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.classifiers.meta.RandomSubSpaceTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.classifiers.meta.RandomizableFilteredClassifierTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.classifiers.meta.RandomizableFilteredClassifierTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.classifiers.meta.RegressionByDiscretizationTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.classifiers.meta.RegressionByDiscretizationTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.classifiers.meta.StackingTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.classifiers.meta.StackingTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.classifiers.meta.VoteTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.classifiers.meta.VoteTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.classifiers.meta.WeightedInstancesHandlerWrapperTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.classifiers.meta.WeightedInstancesHandlerWrapperTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.classifiers.misc.InputMappedClassifierTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.classifiers.misc.InputMappedClassifierTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.classifiers.pmml.consumer.GeneralRegressionTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.classifiers.pmml.consumer.GeneralRegressionTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.classifiers.pmml.consumer.NeuralNetworkTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.classifiers.pmml.consumer.NeuralNetworkTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.classifiers.pmml.consumer.RegressionTest-output.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.classifiers.pmml.consumer.RegressionTest-output.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.classifiers.pmml.consumer.RegressionTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.classifiers.pmml.consumer.RegressionTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.classifiers.pmml.consumer.RuleSetModelTest-output.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.classifiers.pmml.consumer.RuleSetModelTest-output.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.classifiers.pmml.consumer.RuleSetModelTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.classifiers.pmml.consumer.RuleSetModelTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.classifiers.pmml.consumer.SupportVectorMachineModelTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.classifiers.pmml.consumer.SupportVectorMachineModelTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.classifiers.pmml.consumer.TreeModelTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.classifiers.pmml.consumer.TreeModelTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.classifiers.rules.DecisionTableTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.classifiers.rules.DecisionTableTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.classifiers.rules.JRipTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.classifiers.rules.JRipTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.classifiers.rules.M5RulesTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.classifiers.rules.M5RulesTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.classifiers.rules.OneRTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.classifiers.rules.OneRTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.classifiers.rules.PARTTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.classifiers.rules.PARTTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.classifiers.rules.ZeroRTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.classifiers.rules.ZeroRTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.classifiers.trees.DecisionStumpTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.classifiers.trees.DecisionStumpTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.classifiers.trees.HoeffdingTreeTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.classifiers.trees.HoeffdingTreeTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.classifiers.trees.J48Test.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.classifiers.trees.J48Test.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.classifiers.trees.LMTTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.classifiers.trees.LMTTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.classifiers.trees.M5PTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.classifiers.trees.M5PTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.classifiers.trees.REPTreeTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.classifiers.trees.REPTreeTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.classifiers.trees.RandomForestTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.classifiers.trees.RandomForestTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.classifiers.trees.RandomTreeTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.classifiers.trees.RandomTreeTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.clusterers.CanopyTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.clusterers.CanopyTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.clusterers.CobwebTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.clusterers.CobwebTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.clusterers.EMTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.clusterers.EMTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.clusterers.FarthestFirstTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.clusterers.FarthestFirstTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.clusterers.FilteredClustererTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.clusterers.FilteredClustererTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.clusterers.HierarchicalClustererTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.clusterers.HierarchicalClustererTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.clusterers.MakeDensityBasedClustererTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.clusterers.MakeDensityBasedClustererTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.clusterers.SimpleKMeansTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.clusterers.SimpleKMeansTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.core.DictionaryBuilderTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.core.DictionaryBuilderTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.core.InstancesTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.core.InstancesTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.core.OptionHandlersTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.core.OptionHandlersTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.core.RangeTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.core.RangeTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.core.TrieTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.core.TrieTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.core.UtilsTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.core.UtilsTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.core.converters.ArffTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.core.converters.ArffTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.core.converters.C45Test.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.core.converters.C45Test.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.core.converters.CSVTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.core.converters.CSVTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.core.converters.JSONTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.core.converters.JSONTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.core.converters.LibSVMTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.core.converters.LibSVMTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.core.converters.MatlabTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.core.converters.MatlabTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.core.converters.SVMLightTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.core.converters.SVMLightTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.core.converters.SerializedInstancesTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.core.converters.SerializedInstancesTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.core.converters.XRFFTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.core.converters.XRFFTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.core.expressionlanguage.ExpressionLanguageTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.core.expressionlanguage.ExpressionLanguageTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.core.neighboursearch.BallTreeTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.core.neighboursearch.BallTreeTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.core.neighboursearch.CoverTreeTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.core.neighboursearch.CoverTreeTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.core.neighboursearch.KDTreeTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.core.neighboursearch.KDTreeTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.core.neighboursearch.LinearNNSearchTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.core.neighboursearch.LinearNNSearchTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.core.stopwords.MultiStopwordsTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.core.stopwords.MultiStopwordsTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.core.stopwords.NullTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.core.stopwords.NullTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.core.stopwords.RainbowTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.core.stopwords.RainbowTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.core.stopwords.RegExpFromFileTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.core.stopwords.RegExpFromFileTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.core.stopwords.WordsFromFileTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.core.stopwords.WordsFromFileTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.core.tokenizers.AlphabeticTokenizerTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.core.tokenizers.AlphabeticTokenizerTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.core.tokenizers.CharacterNGramTokenizerTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.core.tokenizers.CharacterNGramTokenizerTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.core.tokenizers.NGramTokenizerTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.core.tokenizers.NGramTokenizerTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.datagenerators.classifiers.classification.AgrawalTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.datagenerators.classifiers.classification.AgrawalTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.datagenerators.classifiers.classification.BayesNetTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.datagenerators.classifiers.classification.BayesNetTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.datagenerators.classifiers.classification.LED24Test.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.datagenerators.classifiers.classification.LED24Test.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.datagenerators.classifiers.classification.RDG1Test.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.datagenerators.classifiers.classification.RDG1Test.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.datagenerators.classifiers.classification.RandomRBFTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.datagenerators.classifiers.classification.RandomRBFTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.datagenerators.classifiers.regression.ExpressionTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.datagenerators.classifiers.regression.ExpressionTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.datagenerators.clusterers.BIRCHClusterTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.datagenerators.clusterers.BIRCHClusterTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.datagenerators.clusterers.SubspaceClusterDefinitionTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.datagenerators.clusterers.SubspaceClusterDefinitionTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.datagenerators.clusterers.SubspaceClusterTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.datagenerators.clusterers.SubspaceClusterTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.experiment.StatsTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.experiment.StatsTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.filters.AllFilterTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.filters.AllFilterTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.filters.MultiFilterTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.filters.MultiFilterTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.filters.RenameRelationTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.filters.RenameRelationTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.filters.supervised.attribute.AddClassificationTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.filters.supervised.attribute.AddClassificationTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.filters.supervised.attribute.ClassConditionalProbabilitiesTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.filters.supervised.attribute.ClassConditionalProbabilitiesTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.filters.supervised.attribute.ClassOrderTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.filters.supervised.attribute.ClassOrderTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.filters.supervised.attribute.DiscretizeTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.filters.supervised.attribute.DiscretizeTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.filters.supervised.attribute.MergeNominalValuesTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.filters.supervised.attribute.MergeNominalValuesTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.filters.supervised.attribute.NominalToBinaryTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.filters.supervised.attribute.NominalToBinaryTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.filters.supervised.attribute.PartitionMembershipTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.filters.supervised.attribute.PartitionMembershipTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.filters.supervised.instance.ClassBalancerTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.filters.supervised.instance.ClassBalancerTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.filters.supervised.instance.ResampleTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.filters.supervised.instance.ResampleTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.filters.supervised.instance.SpreadSubsampleTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.filters.supervised.instance.SpreadSubsampleTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.filters.supervised.instance.StratifiedRemoveFoldsTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.filters.supervised.instance.StratifiedRemoveFoldsTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.filters.unsupervised.attribute.AddClusterTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.filters.unsupervised.attribute.AddClusterTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.filters.unsupervised.attribute.AddExpressionTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.filters.unsupervised.attribute.AddExpressionTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.filters.unsupervised.attribute.AddIDTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.filters.unsupervised.attribute.AddIDTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.filters.unsupervised.attribute.AddTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.filters.unsupervised.attribute.AddTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.filters.unsupervised.attribute.AddUserFieldsTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.filters.unsupervised.attribute.AddUserFieldsTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.filters.unsupervised.attribute.AddValuesTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.filters.unsupervised.attribute.AddValuesTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.filters.unsupervised.attribute.CartesianProductTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.filters.unsupervised.attribute.CartesianProductTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.filters.unsupervised.attribute.CenterTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.filters.unsupervised.attribute.CenterTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.filters.unsupervised.attribute.ChangeDateFormatTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.filters.unsupervised.attribute.ChangeDateFormatTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.filters.unsupervised.attribute.ClassAssignerTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.filters.unsupervised.attribute.ClassAssignerTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.filters.unsupervised.attribute.ClusterMembershipTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.filters.unsupervised.attribute.ClusterMembershipTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.filters.unsupervised.attribute.CopyTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.filters.unsupervised.attribute.CopyTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.filters.unsupervised.attribute.DateToNumericTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.filters.unsupervised.attribute.DateToNumericTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.filters.unsupervised.attribute.DiscretizeTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.filters.unsupervised.attribute.DiscretizeTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.filters.unsupervised.attribute.FirstOrderTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.filters.unsupervised.attribute.FirstOrderTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.filters.unsupervised.attribute.FixedDictionaryStringToWordVectorTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.filters.unsupervised.attribute.FixedDictionaryStringToWordVectorTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.filters.unsupervised.attribute.InterquartileRangeTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.filters.unsupervised.attribute.InterquartileRangeTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.filters.unsupervised.attribute.KernelFilterTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.filters.unsupervised.attribute.KernelFilterTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.filters.unsupervised.attribute.MakeIndicatorTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.filters.unsupervised.attribute.MakeIndicatorTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.filters.unsupervised.attribute.MathExpressionTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.filters.unsupervised.attribute.MathExpressionTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.filters.unsupervised.attribute.MergeInfrequentNominalValuesTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.filters.unsupervised.attribute.MergeInfrequentNominalValuesTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.filters.unsupervised.attribute.MergeManyValuesTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.filters.unsupervised.attribute.MergeManyValuesTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.filters.unsupervised.attribute.MergeTwoValuesTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.filters.unsupervised.attribute.MergeTwoValuesTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.filters.unsupervised.attribute.NominalToBinaryTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.filters.unsupervised.attribute.NominalToBinaryTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.filters.unsupervised.attribute.NominalToStringTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.filters.unsupervised.attribute.NominalToStringTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.filters.unsupervised.attribute.NormalizeTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.filters.unsupervised.attribute.NormalizeTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.filters.unsupervised.attribute.NumericCleanerTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.filters.unsupervised.attribute.NumericCleanerTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.filters.unsupervised.attribute.NumericToBinaryTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.filters.unsupervised.attribute.NumericToBinaryTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.filters.unsupervised.attribute.NumericToDateTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.filters.unsupervised.attribute.NumericToDateTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.filters.unsupervised.attribute.NumericTransformTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.filters.unsupervised.attribute.NumericTransformTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.filters.unsupervised.attribute.ObfuscateTest-output.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.filters.unsupervised.attribute.ObfuscateTest-output.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.filters.unsupervised.attribute.ObfuscateTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.filters.unsupervised.attribute.ObfuscateTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.filters.unsupervised.attribute.OrdinalToNumericTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.filters.unsupervised.attribute.OrdinalToNumericTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.filters.unsupervised.attribute.PKIDiscretizeTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.filters.unsupervised.attribute.PKIDiscretizeTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.filters.unsupervised.attribute.PartitionedMultiFilterTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.filters.unsupervised.attribute.PartitionedMultiFilterTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.filters.unsupervised.attribute.PrincipalComponentsTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.filters.unsupervised.attribute.PrincipalComponentsTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.filters.unsupervised.attribute.RandomProjectionTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.filters.unsupervised.attribute.RandomProjectionTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.filters.unsupervised.attribute.RandomSubsetTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.filters.unsupervised.attribute.RandomSubsetTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.filters.unsupervised.attribute.RemoveByNameTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.filters.unsupervised.attribute.RemoveByNameTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.filters.unsupervised.attribute.RemoveTypeTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.filters.unsupervised.attribute.RemoveTypeTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.filters.unsupervised.attribute.RemoveUselessTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.filters.unsupervised.attribute.RemoveUselessTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.filters.unsupervised.attribute.RenameAttributeTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.filters.unsupervised.attribute.RenameAttributeTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.filters.unsupervised.attribute.RenameNominalValuesTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.filters.unsupervised.attribute.RenameNominalValuesTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.filters.unsupervised.attribute.ReorderTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.filters.unsupervised.attribute.ReorderTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.filters.unsupervised.attribute.ReplaceMissingValuesTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.filters.unsupervised.attribute.ReplaceMissingValuesTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.filters.unsupervised.attribute.ReplaceMissingWithUserConstantTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.filters.unsupervised.attribute.ReplaceMissingWithUserConstantTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.filters.unsupervised.attribute.ReplaceWithMissingValueTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.filters.unsupervised.attribute.ReplaceWithMissingValueTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.filters.unsupervised.attribute.SortLabelsTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.filters.unsupervised.attribute.SortLabelsTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.filters.unsupervised.attribute.StringToNominalTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.filters.unsupervised.attribute.StringToNominalTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.filters.unsupervised.attribute.StringToWordVectorTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.filters.unsupervised.attribute.StringToWordVectorTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.filters.unsupervised.attribute.SwapValuesTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.filters.unsupervised.attribute.SwapValuesTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.filters.unsupervised.attribute.TimeSeriesDeltaTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.filters.unsupervised.attribute.TimeSeriesDeltaTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.filters.unsupervised.attribute.TimeSeriesTranslateTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.filters.unsupervised.attribute.TimeSeriesTranslateTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.filters.unsupervised.attribute.TransposeTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.filters.unsupervised.attribute.TransposeTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.filters.unsupervised.instance.NonSparseToSparseTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.filters.unsupervised.instance.NonSparseToSparseTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.filters.unsupervised.instance.RemoveDuplicatesTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.filters.unsupervised.instance.RemoveDuplicatesTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.filters.unsupervised.instance.RemoveFoldsTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.filters.unsupervised.instance.RemoveFoldsTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.filters.unsupervised.instance.RemoveFrequentValuesTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.filters.unsupervised.instance.RemoveFrequentValuesTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.filters.unsupervised.instance.RemoveMisclassifiedTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.filters.unsupervised.instance.RemoveMisclassifiedTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.filters.unsupervised.instance.RemovePercentageTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.filters.unsupervised.instance.RemovePercentageTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.filters.unsupervised.instance.RemoveWithValuesTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.filters.unsupervised.instance.RemoveWithValuesTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.filters.unsupervised.instance.ResampleTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.filters.unsupervised.instance.ResampleTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.filters.unsupervised.instance.ReservoirSampleTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.filters.unsupervised.instance.ReservoirSampleTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.filters.unsupervised.instance.SparseToNonSparseTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.filters.unsupervised.instance.SparseToNonSparseTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/surefire-reports/weka.filters.unsupervised.instance.SubsetByExpressionTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dist/surefire-reports/weka.filters.unsupervised.instance.SubsetByExpressionTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/weka/AllTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/weka/AllTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/weka/classifiers/AbstractClassifierTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/weka/classifiers/AbstractClassifierTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/weka/classifiers/evaluation/EvaluationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/weka/classifiers/evaluation/EvaluationTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/weka/classifiers/functions/supportVector/AbstractKernelTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/weka/classifiers/functions/supportVector/AbstractKernelTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/weka/core/OptionHandlersTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/weka/core/OptionHandlersTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/build/classes/" />
     <ignored path="$PROJECT_DIR$/build/testcases/" />
@@ -24,57 +248,108 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/weka-stable.iml">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/weka/test/Regression.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/weka/classifiers/functions/MultilayerPerceptronTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="274">
-              <caret line="197" column="4" selection-start-line="197" selection-start-column="4" selection-end-line="197" selection-end-column="4" />
+            <state relative-caret-position="120">
+              <caret line="34" column="13" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/resources/wekarefs/weka/filters/unsupervised/instance/DenormalizeTest.ref">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/resources/wekarefs/weka/filters/unsupervised/instance/NonSparseToSparseTest.ref">
+        <entry file="file://$PROJECT_DIR$/src/test/java/weka/classifiers/AllTests.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/test99.iml">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/weka/AllTests.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
+            <state relative-caret-position="10">
+              <caret line="34" column="13" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.travis.yml">
+        <entry file="file://$PROJECT_DIR$/src/test/java/weka/classifiers/AbstractClassifierTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="23" lean-forward="true" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
+            <state relative-caret-position="103">
+              <caret line="986" column="27" selection-start-line="986" selection-start-column="27" selection-end-line="986" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/weka/classifiers/functions/LinearRegressionTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="131">
+              <caret line="34" column="13" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/weka/classifiers/functions/GaussianProcessesTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="70">
+              <caret line="34" column="13" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/weka/classifiers/functions/supportVector/AllTests.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="34" column="13" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/weka/classifiers/functions/SMOregTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="70">
+              <caret line="34" column="13" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/weka/classifiers/functions/SMOTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="70">
+              <caret line="34" column="13" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/weka/classifiers/functions/VotedPerceptronTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="34" column="13" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/weka/classifiers/functions/supportVector/AbstractKernelTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="103">
+              <caret line="796" column="63" selection-start-line="796" selection-start-column="28" selection-end-line="796" selection-end-column="63" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Regression</find>
+      <find>Diff</find>
+      <find>v</find>
+      <find>Regression test failed.</find>
+      <find>Regression test failed. Difference:</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -82,16 +357,23 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/test/java/weka/AllTests.java" />
         <option value="$PROJECT_DIR$/.travis.yml" />
+        <option value="$PROJECT_DIR$/src/test/java/weka/AllTests.java" />
+        <option value="$PROJECT_DIR$/src/test/java/weka/core/OptionHandlersTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/weka/classifiers/functions/supportVector/RBFKernelTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/weka/test/Regression.java" />
+        <option value="$PROJECT_DIR$/src/test/java/weka/classifiers/functions/supportVector/PolyKernelTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/weka/classifiers/functions/supportVector/AbstractKernelTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/weka/classifiers/evaluation/EvaluationTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/weka/classifiers/AbstractClassifierTest.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="219" />
-    <option name="y" value="418" />
-    <option name="width" value="1400" />
-    <option name="height" value="1000" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="2276" />
+    <option name="y" value="204" />
+    <option name="width" value="1390" />
+    <option name="height" value="1007" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -110,11 +392,6 @@
             <path>
               <item name="weka-stable" type="b2602c69:ProjectViewProjectNode" />
               <item name="weka" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="weka-stable" type="b2602c69:ProjectViewProjectNode" />
-              <item name="weka" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -137,6 +414,45 @@
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="weka" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="weka-stable" type="b2602c69:ProjectViewProjectNode" />
+              <item name="weka" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="weka" type="462c0819:PsiDirectoryNode" />
+              <item name="classifiers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="weka-stable" type="b2602c69:ProjectViewProjectNode" />
+              <item name="weka" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="weka" type="462c0819:PsiDirectoryNode" />
+              <item name="classifiers" type="462c0819:PsiDirectoryNode" />
+              <item name="functions" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="weka-stable" type="b2602c69:ProjectViewProjectNode" />
+              <item name="weka" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="weka" type="462c0819:PsiDirectoryNode" />
+              <item name="classifiers" type="462c0819:PsiDirectoryNode" />
+              <item name="functions" type="462c0819:PsiDirectoryNode" />
+              <item name="supportVector" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="weka-stable" type="b2602c69:ProjectViewProjectNode" />
+              <item name="weka" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="weka" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -148,7 +464,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550011247941" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550017479075" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -165,26 +481,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.AllTests">
-    <configuration name="AllTests (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="weka.datagenerators.AllTests" />
-      <module name="weka-stable" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="weka.datagenerators.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.MultilayerPerceptronTest">
     <configuration name="AllTests" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="weka.AllTests" />
+      <option name="MAIN_CLASS_NAME" value="weka.classifiers.functions.supportVector.AllTests" />
       <module name="weka-stable" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="weka.*" />
+          <option name="PATTERN" value="weka.classifiers.functions.supportVector.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -192,12 +495,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Filter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="weka.filters.Filter" />
+    <configuration name="MultilayerPerceptronTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="weka.classifiers.functions.MultilayerPerceptronTest" />
       <module name="weka-stable" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="weka.filters.*" />
+          <option name="PATTERN" value="weka.classifiers.functions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -205,25 +508,54 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Run" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="weka.Run" />
+    <configuration name="OptionHandlersTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="weka.core.OptionHandlersTest" />
       <module name="weka-stable" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="weka.*" />
+          <option name="PATTERN" value="weka.core.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RBFKernelTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="weka.classifiers.functions.supportVector.RBFKernelTest" />
+      <module name="weka-stable" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="weka.classifiers.functions.supportVector.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EvaluationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="weka-stable" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="weka.classifiers.evaluation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="weka.classifiers.evaluation" />
+      <option name="MAIN_CLASS_NAME" value="weka.classifiers.evaluation.EvaluationTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MultilayerPerceptronTest" />
         <item itemvalue="Application.AllTests" />
-        <item itemvalue="Application.Filter" />
-        <item itemvalue="Application.Run" />
-        <item itemvalue="Application.AllTests (1)" />
+        <item itemvalue="Application.RBFKernelTest" />
+        <item itemvalue="JUnit.EvaluationTest" />
+        <item itemvalue="Application.OptionHandlersTest" />
       </list>
     </recent_temporary>
   </component>
@@ -238,18 +570,44 @@
       <option name="presentableId" value="Default" />
       <updated>1549849581363</updated>
       <workItem from="1549849585257" duration="996000" />
-      <workItem from="1549999202504" duration="6571000" />
+      <workItem from="1549999202504" duration="12326000" />
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="EvaluationTest - 2019.02.12 at 18h 51m 54s.xml">
+      <configuration name="EvaluationTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="EvaluationTest - 2019.02.12 at 18h 51m 56s.xml">
+      <configuration name="EvaluationTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="EvaluationTest - 2019.02.12 at 18h 52m 05s.xml">
+      <configuration name="EvaluationTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="EvaluationTest - 2019.02.12 at 18h 54m 38s.xml">
+      <configuration name="EvaluationTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="EvaluationTest - 2019.02.12 at 18h 54m 47s.xml">
+      <configuration name="EvaluationTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7567000" />
+    <option name="totallyTimeSpent" value="13322000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1920" height="1032" extended-state="6" />
+    <frame x="2276" y="204" width="1390" height="1007" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18249734" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2544643" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -258,13 +616,13 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.28683037" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39955357" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.5154994" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3993644" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32924107" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32924107" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.32924107" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
@@ -284,16 +642,21 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/weka/core/OptionHandlersTest.java</url>
+          <line>270</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/weka-stable.iml">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/weka/test/Regression.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="274">
-          <caret line="197" column="4" selection-start-line="197" selection-start-column="4" selection-end-line="197" selection-end-column="4" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/resources/wekarefs/weka/filters/unsupervised/instance/DenormalizeTest.ref">
       <provider selected="true" editor-type-id="text-editor" />
@@ -308,17 +671,221 @@
     <entry file="file://$PROJECT_DIR$/src/test/test99.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/weka/AllTests.java">
+    <entry file="file://$PROJECT_DIR$/.travis.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
+        <state>
+          <caret column="6" lean-forward="true" selection-end-line="3" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.travis.yml">
+    <entry file="file://$PROJECT_DIR$/src/main/java/weka/gui/GenericPropertiesCreator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="23" lean-forward="true" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
+        <state relative-caret-position="-7192">
+          <caret line="167" selection-start-line="167" selection-end-line="167" />
+          <folding>
+            <element signature="e#9022#9023#0" expanded="true" />
+            <element signature="e#9058#9059#0" expanded="true" />
+            <element signature="e#9581#9582#0" expanded="true" />
+            <element signature="e#9613#9614#0" expanded="true" />
+            <element signature="e#10144#10145#0" expanded="true" />
+            <element signature="e#10178#10179#0" expanded="true" />
+            <element signature="e#11941#11949#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jrt:///usr/lib/jvm/java-1.11.0-openjdk-amd64!/java.base/jdk/internal/reflect/DelegatingMethodAccessorImpl.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/weka/core/OptionHandlersTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2310">
+          <caret line="61" lean-forward="true" selection-start-line="61" selection-end-line="61" />
+          <folding>
+            <element signature="e#5729#5737#0" expanded="true" />
+            <element signature="e#7392#7393#0" expanded="true" />
+            <element signature="e#7438#7439#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/weka/AllTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5">
+          <caret line="50" column="6" selection-start-line="50" selection-start-column="6" selection-end-line="50" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/weka/test/Regression.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1003">
+          <caret line="214" column="17" selection-start-line="214" selection-start-column="13" selection-end-line="214" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/weka/test/WekaTestSuite.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3395">
+          <caret line="41" column="13" selection-start-line="41" selection-start-column="13" selection-end-line="41" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/weka/classifiers/functions/supportVector/RBFKernelTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="46" column="30" lean-forward="true" selection-start-line="46" selection-start-column="30" selection-end-line="46" selection-end-column="30" />
+          <folding>
+            <element signature="e#1501#1502#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/weka/classifiers/functions/supportVector/NormalizedPolyKernelTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="101">
+          <caret line="34" column="13" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/weka/classifiers/functions/supportVector/PolyKernelTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="47" column="4" lean-forward="true" selection-start-line="47" selection-start-column="4" selection-end-line="47" selection-end-column="4" />
+          <folding>
+            <element signature="e#1456#1457#0" expanded="true" />
+            <element signature="e#1508#1509#0" expanded="true" />
+            <element signature="e#1551#1552#0" expanded="true" />
+            <element signature="e#1597#1598#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/weka/classifiers/functions/supportVector/PrecomputedKernelMatrixKernelTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="113">
+          <caret line="43" column="5" selection-start-line="43" selection-start-column="4" selection-end-line="43" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/weka/classifiers/functions/supportVector/PukTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="131">
+          <caret line="34" column="13" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/weka/classifiers/evaluation/EvaluationTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="76" column="7" lean-forward="true" selection-start-line="76" selection-start-column="7" selection-end-line="76" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/weka/classifiers/functions/LogisticTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="131">
+          <caret line="34" column="13" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/weka/classifiers/functions/SGDTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-35">
+          <caret line="34" column="13" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/weka/classifiers/functions/SGDTextTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="34" column="13" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/weka/classifiers/functions/SimpleLinearRegressionTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="70">
+          <caret line="34" column="13" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/weka/classifiers/functions/SimpleLogisticTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="70">
+          <caret line="34" column="13" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/weka/classifiers/functions/SMOregTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="70">
+          <caret line="34" column="13" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/weka/classifiers/functions/SMOTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="70">
+          <caret line="34" column="13" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/weka/classifiers/functions/VotedPerceptronTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="34" column="13" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/weka/classifiers/functions/supportVector/AbstractKernelTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="103">
+          <caret line="796" column="63" selection-start-line="796" selection-start-column="28" selection-end-line="796" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/weka/classifiers/functions/LinearRegressionTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="131">
+          <caret line="34" column="13" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/weka/classifiers/functions/GaussianProcessesTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="70">
+          <caret line="34" column="13" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/weka/classifiers/functions/supportVector/AllTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="34" column="13" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/weka/classifiers/functions/MultilayerPerceptronTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="34" column="13" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/weka/classifiers/AllTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10">
+          <caret line="34" column="13" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/weka/classifiers/AbstractClassifierTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="103">
+          <caret line="986" column="27" selection-start-line="986" selection-start-column="27" selection-end-line="986" selection-end-column="27" />
         </state>
       </provider>
     </entry>
