@@ -33,25 +33,25 @@ public class AllTests extends TestSuite {
     TestSuite suite = new TestSuite();
 
     // Core components
-    //suite.addTest(weka.core.AllTests.suite());
+    suite.addTest(weka.core.AllTests.suite());
 
     // associators
     suite.addTest(weka.associations.AllTests.suite());
 
     // attribute selection
-    //suite.addTest(weka.attributeSelection.AllTests.suite());
+    suite.addTest(weka.attributeSelection.AllTests.suite());
 
     // classifiers
-    //suite.addTest(weka.classifiers.AllTests.suite());
+    suite.addTest(weka.classifiers.AllTests.suite());
 
     // clusterers
-    //suite.addTest(weka.clusterers.AllTests.suite());
+    suite.addTest(weka.clusterers.AllTests.suite());
 
     // data generators
-    //suite.addTest(weka.datagenerators.AllTests.suite());
+    suite.addTest(weka.datagenerators.AllTests.suite());
 
     // estimators
-    //suite.addTest(weka.estimators.AllTests.suite());
+    // suite.addTest(weka.estimators.AllTests.suite());
 
     // filters
     //suite.addTest(weka.filters.AllTests.suite());

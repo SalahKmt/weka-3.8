@@ -1,3 +1,5 @@
+weka.experiment.PairedCorrectedTTester: setOptions method failed
+weka.experiment.PairedTTester: setOptions method failed
 Stemmer 'porter' unknown!
 Stemmer 'porter' unknown!
 Stemmer 'porter' unknown!
@@ -12,11 +14,72 @@ Stemmer 'porter' unknown!
 Stemmer 'porter' unknown!
 Stemmer 'porter' unknown!
 Stemmer 'porter' unknown!
+weka.experiment.AveragingResultProducer: setOptions method failed.
+weka.experiment.AveragingResultProducer: There were 'left-over' options.
+weka.experiment.AveragingResultProducer: setOptions method failed
+weka.experiment.AveragingResultProducer: Resetting of options failed
+weka.experiment.CrossValidationResultProducer: setOptions method failed.
+weka.experiment.CrossValidationResultProducer: There were 'left-over' options.
+weka.experiment.CrossValidationResultProducer: setOptions method failed
+weka.experiment.CrossValidationResultProducer: Resetting of options failed
+weka.experiment.CrossValidationSplitResultProducer: setOptions method failed.
+weka.experiment.CrossValidationSplitResultProducer: There were 'left-over' options.
+weka.experiment.CrossValidationSplitResultProducer: setOptions method failed
+weka.experiment.CrossValidationSplitResultProducer: Resetting of options failed
+weka.experiment.DatabaseResultProducer: setOptions method failed.
+weka.experiment.DatabaseResultProducer: There were 'left-over' options.
+weka.experiment.DatabaseResultProducer: setOptions method failed
+weka.experiment.DatabaseResultProducer: Resetting of options failed
+weka.experiment.ExplicitTestsetResultProducer: setOptions method failed.
+weka.experiment.ExplicitTestsetResultProducer: There were 'left-over' options.
+weka.experiment.ExplicitTestsetResultProducer: setOptions method failed
+weka.experiment.ExplicitTestsetResultProducer: Resetting of options failed
+weka.experiment.LearningRateResultProducer: setOptions method failed.
+weka.experiment.LearningRateResultProducer: There were 'left-over' options.
+weka.experiment.LearningRateResultProducer: setOptions method failed
+weka.experiment.LearningRateResultProducer: Resetting of options failed
+weka.experiment.RandomSplitResultProducer: setOptions method failed.
+weka.experiment.RandomSplitResultProducer: There were 'left-over' options.
+weka.experiment.RandomSplitResultProducer: setOptions method failed
+weka.experiment.RandomSplitResultProducer: Resetting of options failed
 A linear kernel, i.e., Exponent=1, is not possible!
 A linear kernel, i.e., Exponent=1, is not possible!
 A linear kernel, i.e., Exponent=1, is not possible!
 A linear kernel, i.e., Exponent=1, is not possible!
+weka.experiment.ClassifierSplitEvaluator: setOptions method failed.
+weka.experiment.ClassifierSplitEvaluator: There were 'left-over' options.
+weka.experiment.ClassifierSplitEvaluator: setOptions method failed
+weka.experiment.ClassifierSplitEvaluator: Resetting of options failed
+weka.experiment.CostSensitiveClassifierSplitEvaluator: setOptions method failed.
+weka.experiment.CostSensitiveClassifierSplitEvaluator: There were 'left-over' options.
+weka.experiment.CostSensitiveClassifierSplitEvaluator: setOptions method failed
+weka.experiment.CostSensitiveClassifierSplitEvaluator: Resetting of options failed
+weka.experiment.DensityBasedClustererSplitEvaluator: setOptions method failed.
+weka.experiment.DensityBasedClustererSplitEvaluator: There were 'left-over' options.
+weka.experiment.DensityBasedClustererSplitEvaluator: setOptions method failed
+weka.experiment.DensityBasedClustererSplitEvaluator: Resetting of options failed
+weka.experiment.RegressionSplitEvaluator: setOptions method failed.
+weka.experiment.RegressionSplitEvaluator: There were 'left-over' options.
+weka.experiment.RegressionSplitEvaluator: setOptions method failed
+weka.experiment.RegressionSplitEvaluator: Resetting of options failed
+weka.core.converters.C45Saver: setOptions method failed.
+weka.core.converters.C45Saver: There were 'left-over' options.
+weka.core.converters.C45Saver: setOptions method failed
+weka.core.converters.C45Saver: Resetting of options failed
 NOTE: at least 1 cluster definition is necessary, created default one.
 NOTE: at least 1 cluster definition is necessary, created default one.
 NOTE: at least 1 cluster definition is necessary, created default one.
 NOTE: at least 1 cluster definition is necessary, created default one.
+weka.datagenerators.clusterers.SubspaceClusterDefinition: setOptions method failed.
+weka.datagenerators.clusterers.SubspaceClusterDefinition: There were 'left-over' options.
+weka.datagenerators.clusterers.SubspaceClusterDefinition: setOptions method failed
+weka.datagenerators.clusterers.SubspaceClusterDefinition: Resetting of options failed
+weka.core.converters.C45Saver: setOptions method failed.
+weka.core.converters.C45Saver: There were 'left-over' options.
+weka.core.converters.C45Saver: setOptions method failed
+weka.core.converters.C45Saver: Resetting of options failed
+weka.core.converters.DatabaseLoader: setOptions method failed
+weka.core.converters.TextDirectoryLoader: setOptions method failed.
+weka.core.converters.TextDirectoryLoader: There were 'left-over' options.
+weka.core.converters.TextDirectoryLoader: setOptions method failed
+weka.core.converters.TextDirectoryLoader: Resetting of options failed

@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: weka.core.OptionHandlersTest
 -------------------------------------------------------------------------------
-Tests run: 1840, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.082 sec
+Tests run: 1840, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.235 sec
