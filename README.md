@@ -1,3 +1,5 @@
+https://travis-ci.org/SalahKmt/weka-3.8.svg?branch=master
+
 # WEKA (stable version)
 
 Read-only git mirror of Weka's subversion repository.
