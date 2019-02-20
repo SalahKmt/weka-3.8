@@ -1,4 +1,4 @@
-Feb 13, 2019 2:06:33 PM com.github.fommil.netlib.BLAS <clinit>
+Feb 20, 2019 11:55:23 AM com.github.fommil.netlib.BLAS <clinit>
 WARNING: Failed to load implementation from: com.github.fommil.netlib.NativeSystemBLAS
-Feb 13, 2019 2:06:33 PM com.github.fommil.netlib.BLAS <clinit>
+Feb 20, 2019 11:55:23 AM com.github.fommil.netlib.BLAS <clinit>
 WARNING: Failed to load implementation from: com.github.fommil.netlib.NativeRefBLAS

@@ -1,0 +1,2 @@
+Not converting attribute: StringAtt2
+

@@ -39,7 +39,6 @@ public class AllTests
     TestSuite suite = new TestSuite();
 
     suite.addTest(suite("weka.datagenerators.DataGenerator"));
-    suite.addTest(suite("weka.datagenerators.ClusterDefinition"));
 
     return suite;
   }

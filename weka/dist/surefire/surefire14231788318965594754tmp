@@ -1,0 +1,8 @@
+#surefire
+#Tue Feb 19 20:00:40 EST 2019
+user.dir=/home/salah/Desktop/LOG8371/TPs/tp1/weka-3.8/weka
+basedir=/home/salah/Desktop/LOG8371/TPs/tp1/weka-3.8/weka
+weka.test.Regression.root=src/test/resources/wekarefs
+user.timezone=Pacific/Auckland
+weka.test.maventest=true
+localRepository=/home/salah/.m2/repository

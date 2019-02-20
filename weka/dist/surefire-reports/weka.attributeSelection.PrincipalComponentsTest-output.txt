@@ -1,4 +1,4 @@
-Feb 13, 2019 2:06:00 PM com.github.fommil.netlib.LAPACK <clinit>
+Feb 20, 2019 11:54:50 AM com.github.fommil.netlib.LAPACK <clinit>
 WARNING: Failed to load implementation from: com.github.fommil.netlib.NativeSystemLAPACK
-Feb 13, 2019 2:06:00 PM com.github.fommil.netlib.LAPACK <clinit>
+Feb 20, 2019 11:54:50 AM com.github.fommil.netlib.LAPACK <clinit>
 WARNING: Failed to load implementation from: com.github.fommil.netlib.NativeRefLAPACK

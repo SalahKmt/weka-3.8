@@ -60,7 +60,7 @@ public class AllTests extends WekaTestSuite {
     suite.addTest(weka.core.neighboursearch.AllTests.suite());
 
     // tokenizers
-    suite.addTest(weka.core.tokenizers.AllTests.suite());
+    //suite.addTest(weka.core.tokenizers.AllTests.suite());
 
     suite
       .addTestSuite(weka.core.expressionlanguage.ExpressionLanguageTest.class);
