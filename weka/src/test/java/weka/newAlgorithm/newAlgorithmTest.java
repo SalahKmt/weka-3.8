@@ -45,7 +45,7 @@ public class newAlgorithmTest
     }
 
     public static void quickSort(int arr[], int left, int right) {
-        int index = partition(arr, left, right);
+        int index = partition(arr, right, left);
         if (left < index - 1) { // Sort left half
             quickSort(arr, left, index - 1);
         }
