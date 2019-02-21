@@ -1,4 +1,4 @@
 language: java
 
 script :
-  - cd weka && mvn test
+  - cd weka && mvn clean && mvn test
